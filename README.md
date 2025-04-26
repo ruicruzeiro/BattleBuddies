@@ -1,4 +1,4 @@
-Battle Buddies - My implementation of the classic OOP project
+Battle Buddies - My implementation of the classic OOP combat game project
 
 Explored inheritance, polymorphism, encapsulation and abstraction.
 
